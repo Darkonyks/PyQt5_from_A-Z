@@ -1,0 +1,1 @@
+#prvo kreiran fajl Point.py
